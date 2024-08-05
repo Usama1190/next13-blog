@@ -12,6 +12,7 @@ export default function Home() {
         <h2>Home</h2>
       </div> 
       <Link href="/posts">Posts</Link>
+      <Link href="/account">Accounts</Link>
     </main>
   );
 }
